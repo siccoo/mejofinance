@@ -16,7 +16,7 @@ html {
 }
 
 body {
-	/* font-family: 'Circular-Black'; */
+	font-family: Arial, Helvetica, sans-serif;
 	-webkit-font-smoothing: antialiased;
 	margin: 0 !important;
 }
@@ -51,10 +51,13 @@ a {
 .navbar button {
     background: linear-gradient(to right, #30cf73, #2cb9cb);
     color: #fff;
+    font-weight: 400;
     border-radius: 25px;
     padding: 8px 25px;
-    margin
+    /* margin */
 }
+
+/*  */
 
 
 /*------------------------------------------*/
