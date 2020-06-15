@@ -48,6 +48,15 @@ a {
     color: #b5b6bb;
 }
 
+.navbar button {
+    background: linear-gradient(to right, #30cf73, #2cb9cb);
+    color: #fff;
+    border-radius: 25px;
+    padding: 8px 25px;
+    margin
+}
+
+
 /*------------------------------------------*/
 /*	 Responsive Toggle Menu Button
 /*------------------------------------------*/
@@ -63,7 +72,7 @@ a {
     color: #b5b6bb;
 }
 
-.navbar-toggler:hover {
+.navbar-toggler-icon:hover {
     background-color: #fff !important;
     color: #b5b6bb;
 }
