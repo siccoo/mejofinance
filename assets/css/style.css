@@ -57,8 +57,6 @@ a {
     /* margin */
 }
 
-/*  */
-
 
 /*------------------------------------------*/
 /*	 Responsive Toggle Menu Button
@@ -87,3 +85,10 @@ a {
 .home-logo {
     width: 130px;
 }
+
+/* HOME SECTION STYLES STARTS */
+.home-section {
+    background: #fafafa;
+    padding: 40px 0;
+}
+
