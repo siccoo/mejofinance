@@ -97,3 +97,19 @@ a {
     color: #2a2f45;
 }
 
+.home-section p {
+  line-height: 1.5rem
+  padding-bottom: 70px;
+  color: #9e9da2;
+  font-size: 16px;
+}
+
+.home-section .home-btn {
+  background: linear-gradient(to right, #30cf73, #2cb9cb);
+  color: #fff;
+  font-weight: 400;
+  border-radius: 25px;
+  border: none;
+  padding: 8px 25px;
+    /* margin */
+}
