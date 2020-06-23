@@ -98,7 +98,7 @@ a {
 }
 
 .home-section p {
-  line-height: 1.5rem
+  line-height: 1.5rem;
   padding-bottom: 70px;
   color: #9e9da2;
   font-size: 16px;
@@ -112,4 +112,20 @@ a {
   border: none;
   padding: 8px 25px;
     /* margin */
+}
+
+.home-section .phone-container {
+    position: relative;
+    /* display: inline-block; */
+}
+
+.phone-container .bank-img1 {
+    float: right;
+    width: 150%;
+    margin-top: -50%;
+    margin-bottom: -50%;
+    /* transform: translate(-50%, -50%); */
+    /* height: 50px; */
+    top: 50%;
+    left: 50%;
 }
