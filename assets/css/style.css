@@ -88,12 +88,12 @@ a {
 
 /* HOME SECTION STYLES STARTS */
 .home-section {
-    background: url("../images/bg-intro-desktop.svg") no-repeat right #fafafa;
-    padding: 40px 0;
-    background-position: right;
-    /* background-image: url("assets/images/bg-intro-desktop.svg") no-repeat; */
+    background: url("../images/bg-intro-desktop.svg") no-repeat;
+    padding: 40px 0px;
+    background-size: 55% 170%;    
     position: relative;
-    left: 3rem;
+    background-color: #fafafa;
+    background-position: right -110px top -200px;
 }
 
 .home-section h1 {
@@ -103,7 +103,8 @@ a {
 
 .home-section p {
   line-height: 1.5rem;
-  padding-bottom: 70px;
+  padding-bottom: 10px;
+  padding-top: 10px;
   color: #9e9da2;
   font-size: 16px;
 }
@@ -115,7 +116,6 @@ a {
   border-radius: 25px;
   border: none;
   padding: 8px 25px;
-    /* margin */
 } 
 
 .phone-container .bank-img1 {
