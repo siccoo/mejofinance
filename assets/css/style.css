@@ -88,11 +88,12 @@ a {
 
 /* HOME SECTION STYLES STARTS */
 .home-section {
-    background: #fafafa;
+    background: url("../images/bg-intro-desktop.svg") no-repeat right #fafafa;
     padding: 40px 0;
     background-position: right;
-    background-image: url("/assets/images/bg-intro-desktop.svg") no-repeat;
+    /* background-image: url("assets/images/bg-intro-desktop.svg") no-repeat; */
     position: relative;
+    left: 3rem;
 }
 
 .home-section h1 {
