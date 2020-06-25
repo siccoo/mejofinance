@@ -155,3 +155,28 @@ a {
   padding-bottom: 10px;
   padding-top: 10px;  
 }
+
+.about-card {
+    /*border: 2px solid #f8f8f8;*/
+    padding: 20px;
+    height: 300px;
+    /*border-radius: 4px;*/
+}
+
+.about-card img {
+    width: 50px;
+}
+
+.about-card h4 {
+    color: #575a6e;
+    margin: 20px 0 0 0;
+}
+
+.about-card p {
+    font-family: 'Circular-Medium';
+    font-size: 15px;
+    line-height: 2;
+    max-width: 400px;
+    margin: auto;
+    color: #b5b6bb;
+}
