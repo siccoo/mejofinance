@@ -142,7 +142,7 @@ a {
 }
 
 .about-section h1 {
-    /*font-family: 'FontAwesome';*/
+    font-family: Arial, Helvetica, sans-serif;  
     font-size: 30px;
     color: #575a6e;
     margin: 10px auto;
