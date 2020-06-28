@@ -102,20 +102,11 @@ a {
     /*overflow-x: hidden;*/
 }
 
-/*.home-section::-webkit-scrollbar {
-    width: 0px;
-    background: transparent;
-}
-
-.home-section {
-  scrollbar-width: none; 
-  -ms-overflow-style: none; 
-}*/
-
 .home-section h1 {
     color: #2a2f45;
     max-width:300px;
     margin-bottom: 10px;
+    /*font-size: 30px;*/
 }
 
 /* @media() */
@@ -199,3 +190,20 @@ a {
 /*------------------------------------------*/
 /*   About Section Ends
 /*------------------------------------------*/
+
+/*------------------------------------------*/
+/*   Articles Section Starts
+/*------------------------------------------*/
+
+.articles-section {
+  padding: 80px 0 80px 0;
+  background: #fafafa;
+}
+
+.articles-section h1 {
+    font-family: Arial, Helvetica, sans-serif;  
+    font-size: 30px;
+    color: #575a6e;
+    margin: 10px auto;
+}
+
