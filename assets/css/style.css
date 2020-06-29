@@ -208,18 +208,20 @@ a {
 }
 
 .articles-resources {
-  height: 490px;
+  height: 420px;
   /*border: 1px solid black;*/
-  border-radius: 3px none;
+  border-radius: 5px;
   background-color: #ffffff;
 }
 
 .articles-resource-img {
-  height: 230px;
+  height: 200px;
+  /*border-radius: 5px;*/
   max-width: 100%;
 }
 
 .articles-resource-img img {
+  border-radius: 5px 5px 0 0;
   object-fit: cover;
   object-position: top;
   display: block;
