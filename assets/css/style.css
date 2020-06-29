@@ -207,3 +207,41 @@ a {
     margin: 10px auto;
 }
 
+.articles-resources {
+  height: 490px;
+  /*border: 1px solid black;*/
+  border-radius: 3px none;
+  background-color: #ffffff;
+}
+
+.articles-resource-img {
+  height: 230px;
+  max-width: 100%;
+}
+
+.articles-resource-img img {
+  object-fit: cover;
+  object-position: top;
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+
+.articles-headline {
+  padding: 20px;
+}
+
+.articles-headline .articles-author {
+  font-size: 12px;
+   color: #b5b6bb;
+}
+
+.articles-headline h3 {
+  font-size: 20px;
+   color: #575a6e;
+}
+
+.articles-headline .articles-message {
+  font-size: 14px;
+   color: #b5b6bb;
+}
