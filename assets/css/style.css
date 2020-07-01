@@ -231,7 +231,7 @@ a {
 }
 
 .articles-headline {
-  padding: 20px;
+  padding: 15px;
 }
 
 .articles-headline .articles-author {
@@ -247,4 +247,17 @@ a {
 .articles-headline .articles-message {
   font-size: 14px;
    color: #b5b6bb;
+}
+
+/*------------------------------------------*/
+/*   Articles Section Ends
+/*------------------------------------------*/
+
+/*------------------------------------------*/
+/*   Footer Section Starts
+/*------------------------------------------*/
+
+.footer-section {
+  padding: 40px 0 40px 0;
+  background: #2d314e;
 }
