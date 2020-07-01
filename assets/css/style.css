@@ -262,6 +262,16 @@ a {
   background: #2d314e;
 }
 
+.footer-section img {
+  padding-bottom: 10px;
+  margin: 0px;
+}
+
+.icon-container img {
+  justify-content: space-between;
+
+}
+
 .footer-section .footer-link li {
   list-style-type: none;
 }
@@ -273,7 +283,7 @@ a {
   font-size: 12px;
 }
 
-.footer-section .home-btn{
+.footer-section .home-btn {
   background: linear-gradient(to right, #30cf73, #2cb9cb);
   color: #fff;
   font-weight: 400;
