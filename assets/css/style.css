@@ -261,3 +261,7 @@ a {
   padding: 40px 0 40px 0;
   background: #2d314e;
 }
+
+.footer-section .footer-link li {
+  list-style-type: none;
+}
