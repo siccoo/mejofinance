@@ -231,7 +231,7 @@ a {
 }
 
 .articles-headline {
-  padding: 17px;
+  padding: 16px;
 }
 
 .articles-headline .articles-author {
@@ -264,4 +264,11 @@ a {
 
 .footer-section .footer-link li {
   list-style-type: none;
+}
+
+.footer-link li {
+  color: #fff;
+  padding: 5px 0;
+  cursor: pointer;
+  font-size: 12px;
 }
