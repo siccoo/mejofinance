@@ -187,6 +187,13 @@ a {
     color: #b5b6bb;
 }
 
+.about-card a {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 16px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
 /*------------------------------------------*/
 /*   About Section Ends
 /*------------------------------------------*/
