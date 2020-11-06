@@ -16,5 +16,6 @@ Web based app platform to seamlessly manage customers experience and provide goo
 **Proposed Stack: HTML 5, CSS 3, Javascript, Node, MongoDB
 
 ## Deploying your project 
-This project is deployed with firebase
+This project is deployed with firebase or netlify
+
 
