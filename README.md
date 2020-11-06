@@ -1,14 +1,14 @@
 # Mejo Finance - Good Corporate Governance 👋
 
 ## Team members
-Name: Michael Chilaka Email: chilakamichael001@gmail.com
-Name: Emmanuel Chilaka Email: emmanuelchilaka779@gmail.com
-Name: Johnson Inya Email: intoajohnson@gmail.com
+- Name: Michael Chilaka Email: chilakamichael001@gmail.com
+- Name: Emmanuel Chilaka Email: emmanuelchilaka779@gmail.com
+- Name: Johnson Inya Email: intoajohnson@gmail.com
 
 ## Goal: Nigeria Financial Ecosystem moving forward
 
 ## Problem: 
-Poor corperate governace as regards to lost
+Poor corperate governance as regards to lost
 
 ## Solution: 
 Web based app platform to seamlessly manage customers experience and provide good coperate governance as to putting financial interest always ahead
