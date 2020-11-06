@@ -18,4 +18,19 @@ const navSLide = () => {
 
 navSLide();
 
+const myForm = document.getElementById('regForm');
 
+regForm.addEventListener('submit', function(e) {
+  e.preventDefault();
+
+  const regData = new RegData(this);
+
+  fetch('post', {
+    method: post,
+    body: regData
+  }).then(function (res) {
+    return res.text();
+  }).then(function (text) {
+    console.log(text);
+  })
+})
