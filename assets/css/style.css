@@ -195,6 +195,10 @@ a {
   color: #b5b6bb !important;
 }
 
+.about-card a:hover {
+  color: #2a2f45 !important;
+}
+
 /*------------------------------------------*/
 /*   About Section Ends
 /*------------------------------------------*/
