@@ -192,11 +192,11 @@ a {
   font-size: 12px;
   font-weight: bold;
   text-decoration: none;
-  color: #b5b6bb !important;
+  color: #2a2f45 !important;
 }
 
 .about-card a:hover {
-  color: #2a2f45 !important;
+  color: #30cf73 !important;
 }
 
 /*------------------------------------------*/
