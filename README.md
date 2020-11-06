@@ -5,7 +5,7 @@ Name: Michael Chilaka Email: chilakamichael001@gmail.com
 Name: Emmanuel Chilaka Email: emmanuelchilaka779@gmail.com
 Name: Johnson Inya Email: intoajohnson@gmail.com
 
-##Goal: Nigeria Financial Ecosystem moving forward
+## Goal: Nigeria Financial Ecosystem moving forward
 
 ## Problem: 
 Poor corperate governace as regards to lost
