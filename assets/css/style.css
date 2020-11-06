@@ -188,10 +188,11 @@ a {
 }
 
 .about-card a {
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: Arial;
   font-size: 16px;
   font-weight: bold;
   text-decoration: none;
+  color: linear-gradient(to right, #30cf73, #2cb9cb);
 }
 
 /*------------------------------------------*/
