@@ -33,6 +33,6 @@ regForm.addEventListener('submit', function(e) {
   }).then(function (text) {
     console.log(text);
   }).catch(function (error) {
-    console.log(error);
+    console.error(error);
   })
 })
